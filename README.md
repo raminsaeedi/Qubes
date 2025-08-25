@@ -76,4 +76,4 @@ To run the Streamlit application, execute the following command in your terminal
 streamlit run app.py
 ```
 
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![LICENSE](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
